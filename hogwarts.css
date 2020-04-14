@@ -1,0 +1,42 @@
+html body{
+    background-image: url(img/fondo.jpg);
+    height: 100%;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.cuerpo{
+    margin-top: 4%;
+}
+
+.titulo{
+    width: max-content;
+    margin: 0 auto 0 auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 5em;
+    color: gold;
+}
+
+button{
+    margin: -1.5em auto;
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+    border-radius: 30px;
+    border-style:none;
+    font-family: 'Indie Flower', cursive;
+    background-color: antiquewhite;
+
+    
+}
+
+ .escudo{
+    position: relative;
+    display: block;
+    margin: auto;
+    top: -7em;
+    height: 20em;
+} 
